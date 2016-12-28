@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\bin\Debug\CaidaoBruter.exe.config
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\bin\Debug\CaidaoBruter.exe
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\bin\Debug\CaidaoBruter.pdb
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\obj\Debug\CaidaoBruter.Form1.resources
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\obj\Debug\CaidaoBruter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\obj\Debug\CaidaoBruter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\obj\Debug\CaidaoBruter.exe
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\obj\Debug\CaidaoBruter.pdb
+C:\Users\Administrator\Desktop\CaidaoBruter\CaidaoBruter\obj\Debug\CaidaoBruter.csprojResolveAssemblyReference.cache
