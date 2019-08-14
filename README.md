@@ -1,4 +1,8 @@
-# 一句话密码爆破工具
+# 一句话密码爆破工具 [deprecated]
+
+> 提交不维护系列
+> 当时花了几天学了下 C#, 正好拿这个练练手，年久失修，不保证目前工作正常。
+> Feel free to fork it.
 
 ![main.png](img/main.png)
 
